@@ -1,0 +1,16 @@
+EngineCapacity,AutoTransmission,FourWD
+1.8,true,false
+2.0,false,true
+1.6,true,true
+2.2,false,false
+1.4,true,false
+2.5,true,true
+1.8,false,true
+2.0,true,false
+1.6,false,false
+2.2,true,true
+1.4,false,true
+2.5,false,false
+1.8,true,true
+2.0,false,false
+1.6,true,false

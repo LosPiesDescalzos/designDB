@@ -1,0 +1,7 @@
+TariffName,MinutePayment,ParkingPayment
+Economy,0.5,1.5
+Standard,0.7,2.0
+Premium,1.0,2.5
+Business,1.2,3.0
+Family,0.6,1.8
+Exclusive,1.4,3.8
